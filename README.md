@@ -91,7 +91,7 @@ This project was created to practice:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/game-rental-system.git
+git clone https://github.com/GustavoPGCordeiro/game-rental-system.git
 ```
 
 2. Open the project folder.
